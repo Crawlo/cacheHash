@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@oudyworks/ttlmap": "^1.0.5",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "redis-cli": "^1.4.0"
   }
 }
